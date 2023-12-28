@@ -1,8 +1,9 @@
 {
   "name": "pubsub",
   "version": "1.0.0",
-  "description": "Simple pubSub module",
+  "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

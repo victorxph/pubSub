@@ -26,6 +26,10 @@ class pubSub {
 			})
 		}
 	}
+
+	showEvents() {
+		console.log(this.events)
+	}
 }
 
 module.exports = pubSub;
