@@ -1,6 +1,6 @@
 {
-	"name": "rxph-pubsub",
-	"version": "1.0.0",
+	"name": "@victorxph/pubsub",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
 	"devDependencies": {},
