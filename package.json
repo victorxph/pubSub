@@ -1,25 +1,25 @@
 {
-  "name": "pubsub",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/victorxph/pubSub.git"
-  },
-  "keywords": [
-    "pub",
-    "sub",
-    "pubsub"
-  ],
-  "author": "rx",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/victorxph/pubSub/issues"
-  },
-  "homepage": "https://github.com/victorxph/pubSub#readme"
+	"name": "rxph-pubsub",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/victorxph/pubSub.git"
+	},
+	"keywords": [
+		"pub",
+		"sub",
+		"pubsub"
+	],
+	"author": "victorxph",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/victorxph/pubSub/issues"
+	},
+	"homepage": "https://github.com/victorxph/pubSub#readme"
 }
