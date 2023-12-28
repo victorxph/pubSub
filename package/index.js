@@ -27,3 +27,5 @@ class pubSub {
 		}
 	}
 }
+
+module.exports = pubSub;
